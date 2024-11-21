@@ -9,7 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@types/faker": "^6.6.8",
+    "@types/googlemaps": "^3.43.3",
     "axios": "^0.27.2",
+    "faker": "^6.6.6",
     "next": "15.0.3",
     "react": "19.0.0-rc-66855b96-20241106",
     "react-dom": "19.0.0-rc-66855b96-20241106"
